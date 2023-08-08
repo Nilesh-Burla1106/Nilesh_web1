@@ -8,7 +8,7 @@ import { SearchComponent } from './search/search.component';
   selector: 'app-sidenav',
   templateUrl: './sidenav.component.html',
   styleUrls: ['./sidenav.component.css'],
-  imports:[HeaderComponent,SearchComponent,ChatsComponent],
+  imports:[ChatsComponent,SearchComponent,HeaderComponent],
 })
 export class SidenavComponent implements OnInit {
 

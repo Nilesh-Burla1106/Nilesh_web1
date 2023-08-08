@@ -33,8 +33,9 @@
 }
 .sort{
   display: flex;
-  justify-content:flex-end;
-  align-items:flex-end;
+  justify-content:center;
+  align-items:center;
+  flex-basis: 2rem;
   width: 2rem;
   height: 2rem;
   padding: 0.2rem;
