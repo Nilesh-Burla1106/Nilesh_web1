@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   standalone:true,
   selector: 'app-chats',
   templateUrl: './chats.component.html',
-  styleUrls: ['./chats.component.css']
+  styleUrls: ['./chats.component.css'],
 })
 export class ChatsComponent implements OnInit {
 
