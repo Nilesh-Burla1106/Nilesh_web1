@@ -3,6 +3,7 @@
   flex-direction: column;
   height: 43rem;
   border-right: 2px solid #ccc;
+  cursor: auto;
 }
 .header{
   height: 3.5rem;
